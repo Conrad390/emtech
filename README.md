@@ -13,6 +13,7 @@
 <body>
 <style>
 body{
+	background-image: url("");
 	background-image: url("mpo.png");
 	background-image: no-repeat;
 	background-attachment: fixed;
